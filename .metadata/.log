@@ -679,3 +679,33 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-29 18:55:53.985
 !MESSAGE executing callback sts4.classpath.FVXrQVoX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-29 20:10:06.154
+!MESSAGE Preparing classpath changed notification data_types_static_nonstatic_demo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-29 20:10:06.158
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-29 20:10:06.168
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-29 20:10:06.181
+!MESSAGE buffering callback sts4.classpath.FVXrQVoX data_types_static_nonstatic_demo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-29 20:10:06.183
+!MESSAGE executing callback sts4.classpath.FVXrQVoX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-29 20:10:06.218
+!MESSAGE executing callback sts4.classpath.FVXrQVoX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-29 20:40:09.757
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.FVXrQVoX
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-29 20:40:09.760
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.FVXrQVoX
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-29 20:40:09.765
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-29 20:40:09.864
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.FVXrQVoX => OK

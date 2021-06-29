@@ -1,0 +1,18 @@
+package operatorswitch;
+
+public class Switchprac(int x)
+{ 
+	 
+	switch (x)
+	{
+	case 6:
+		System.out.println("today is saturday");
+	
+	case 7:
+		System.out.println("today is sunday");
+		
+	default:
+		System.out.println("lookinf for weekends");
+	}
+}
+

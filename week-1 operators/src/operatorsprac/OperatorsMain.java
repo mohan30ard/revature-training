@@ -8,6 +8,9 @@ public class OperatorsMain {
 		o.compare();
 		o.increment();
 		o.forinc();
+		
+		Switchprac s = new Switchprac(3);
+		s.scase();
 	}
 
 }

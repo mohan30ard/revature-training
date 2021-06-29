@@ -10,7 +10,6 @@ public class Operators {
 		this.x=x;
 		this.y=y;
 	}
-	
 	public void compare()
 	{
 		if(x>y)
@@ -42,6 +41,5 @@ public class Operators {
 			System.out.println("i value is :"+x);
 		}
 	}
-
 	
 }

@@ -1,0 +1,17 @@
+package operatorsprac;
+
+public class Switchprac {
+	public void scase(int x) {
+		switch (x){
+		case 6:
+			System.out.println("today is saturday");
+			break;
+		case 7:
+			System.out.println("today is sunday");
+			break;
+		default:
+			System.out.println("lookinf for weekends");
+		}
+	}
+
+}
