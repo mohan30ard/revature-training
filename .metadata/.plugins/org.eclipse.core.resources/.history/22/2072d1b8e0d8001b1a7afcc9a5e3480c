@@ -1,0 +1,29 @@
+package operatorsprac;
+
+public class Operators {
+
+	private int x;
+	private int y;
+	
+	public Operators(int x,int y)
+	{
+		this.x=x;
+		this.y=y;
+	}
+	
+	public void compare()
+	{
+		if(x>y)
+		{
+			System.out.println("x is greater than y");
+		}
+		else if(x<y)
+		{
+			System.out.println("y is greater than x");
+		}
+		else(x=y)
+		{
+			System.out.println("both are equal values");
+		}
+	}
+}

@@ -1,0 +1,12 @@
+package myfirstpack;
+
+public class mypack {
+
+	public static void main(String[] args) {
+		
+		System.out.println("helloo.......");
+		// TODO Auto-generated method stub
+
+	}
+
+}
