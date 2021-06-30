@@ -2608,3 +2608,171 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.eclipse.jdt.debug 2 0 2021-06-30 18:59:55.358
 !MESSAGE Unable to find location of java.lang.Thread.setName() in debuggee JVM, for type java.lang.Thread
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:20:08.750
+!MESSAGE Preparing classpath changed notification object_overrideprac
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:20:08.774
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:20:08.781
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:20:08.810
+!MESSAGE buffering callback sts4.classpath.NbxTTmIO object_overrideprac false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:20:08.865
+!MESSAGE executing callback sts4.classpath.NbxTTmIO 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:20:08.894
+!MESSAGE executing callback sts4.classpath.NbxTTmIO SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:20:22.052
+!MESSAGE Preparing classpath changed notification my_first_j_app
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:20:22.056
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:20:22.060
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:20:22.067
+!MESSAGE buffering callback sts4.classpath.NbxTTmIO my_first_j_app false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:20:22.068
+!MESSAGE executing callback sts4.classpath.NbxTTmIO 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:20:22.125
+!MESSAGE executing callback sts4.classpath.NbxTTmIO SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:29:04.865
+!MESSAGE Preparing classpath changed notification object_overrideprac
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:29:04.866
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:29:04.867
+!MESSAGE buffering callback sts4.classpath.NbxTTmIO object_overrideprac true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:29:04.868
+!MESSAGE executing callback sts4.classpath.NbxTTmIO 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:29:04.876
+!MESSAGE executing callback sts4.classpath.NbxTTmIO SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:29:44.413
+!MESSAGE Preparing classpath changed notification objectcasting_prac
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:29:44.414
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:29:44.416
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:29:44.418
+!MESSAGE buffering callback sts4.classpath.NbxTTmIO objectcasting_prac false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:29:44.419
+!MESSAGE executing callback sts4.classpath.NbxTTmIO 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:29:44.423
+!MESSAGE executing callback sts4.classpath.NbxTTmIO SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:31:34.030
+!MESSAGE Preparing classpath changed notification polymorph_demo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:31:34.032
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:31:34.035
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:31:34.038
+!MESSAGE buffering callback sts4.classpath.NbxTTmIO polymorph_demo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:31:34.038
+!MESSAGE executing callback sts4.classpath.NbxTTmIO 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:31:34.045
+!MESSAGE executing callback sts4.classpath.NbxTTmIO SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:31:56.769
+!MESSAGE Preparing classpath changed notification encapsulation_demo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:31:56.771
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:31:56.774
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:31:56.777
+!MESSAGE buffering callback sts4.classpath.NbxTTmIO encapsulation_demo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:31:56.778
+!MESSAGE executing callback sts4.classpath.NbxTTmIO 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:31:56.783
+!MESSAGE executing callback sts4.classpath.NbxTTmIO SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:35:33.482
+!MESSAGE Preparing classpath changed notification object_casting_override_object_class_demo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:35:33.483
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:35:33.485
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:35:33.487
+!MESSAGE buffering callback sts4.classpath.NbxTTmIO object_casting_override_object_class_demo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:35:33.488
+!MESSAGE executing callback sts4.classpath.NbxTTmIO 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:35:33.492
+!MESSAGE executing callback sts4.classpath.NbxTTmIO SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:58:02.464
+!MESSAGE Preparing classpath changed notification objectcasting_objectoverride_prac
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:58:02.478
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:58:02.483
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:58:02.567
+!MESSAGE buffering callback sts4.classpath.NbxTTmIO objectcasting_objectoverride_prac false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:58:02.568
+!MESSAGE Preparing classpath changed notification objectcasting_prac
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:58:02.568
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:58:02.569
+!MESSAGE buffering callback sts4.classpath.NbxTTmIO objectcasting_prac true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:58:02.570
+!MESSAGE executing callback sts4.classpath.NbxTTmIO 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 20:58:02.578
+!MESSAGE executing callback sts4.classpath.NbxTTmIO SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 21:24:55.332
+!MESSAGE Preparing classpath changed notification abstract_class_demo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 21:24:55.333
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 21:24:55.338
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 21:24:55.341
+!MESSAGE buffering callback sts4.classpath.NbxTTmIO abstract_class_demo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 21:24:55.342
+!MESSAGE executing callback sts4.classpath.NbxTTmIO 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-30 21:24:55.347
+!MESSAGE executing callback sts4.classpath.NbxTTmIO SUCCESS [done]
