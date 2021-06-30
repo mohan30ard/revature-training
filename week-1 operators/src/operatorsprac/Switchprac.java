@@ -10,13 +10,13 @@ public class Switchprac {
 	public void scase() {
 		switch (x){
 		case 6:
-			System.out.println("today is saturday");
+			System.out.println("entered value is 6");
 			break;
 		case 7:
-			System.out.println("today is sunday");
+			System.out.println("entered value is 7");
 			break;
 		default:
-			System.out.println("lookinf for weekends");
+			System.out.println("some other value");
 		}
 	}
 

@@ -1,0 +1,14 @@
+package operatorsprac;
+
+public class Assignmentop {
+	
+	private int x;
+	
+	public Conditionalop()
+	{
+		this.x=x;
+	}
+	
+	
+
+}

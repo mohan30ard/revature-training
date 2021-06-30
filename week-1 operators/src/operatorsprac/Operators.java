@@ -29,7 +29,7 @@ public class Operators {
 	public void increment()
 	{
 		int x=0;
-		while(x<5)
+		while(x!=5)
 		{
 			System.out.println(" x value is :"+x);
 			x++;
